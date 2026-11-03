@@ -1,16 +1,17 @@
-## Hi there 👋
+# Julianne (Yulia) Murthy
+M.S. Bioinformatics candidate at Northeastern (Dec 2027) · Computational Biologist, Day Lab  
+2 years of wet-lab background in cell therapy & epigenetic editing (Chroma Medicine, Catamaran Bio)
 
-<!--
-**juliannemurthy/juliannemurthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I work on
+- **RNA-seq pipelines**: reproducible Snakemake workflows (QC → alignment → quantification → DESeq2/limma)
+- **Telomeric ATAC-seq**: repeat-aware alignment and motif quantification for telomeric chromatin accessibility
+- **Multi-omic integration**: CUT&Tag + RNA-seq with BETA and ChIPpeakAnno
 
-Here are some ideas to get you started:
+### Tools
+Python · R · Bash · Snakemake · STAR · SAMtools/BEDTools · DESeq2 · HPC (Slurm) · ChIPpeakAnno
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured
+- [telomeric_atacseq](link): telomere-specific ATAC-seq analysis
+- [rnaseq-snakemake](link): automated RNA-seq pipeline
+
+Preprint Publication: [G4 DNA structures induced by UV radiation: A multi-omic approach (bioRxiv, 2026)](https://doi.org/10.64898/2026.07.15.738736)
