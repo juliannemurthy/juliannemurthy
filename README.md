@@ -3,8 +3,8 @@ M.S. Bioinformatics candidate at Northeastern (Dec 2027) · Computational Biolog
 2 years of wet-lab background in cell therapy & epigenetic editing (Chroma Medicine, Catamaran Bio)
 
 ### What I work on
-- **RNA-seq pipelines**: reproducible Snakemake workflows (QC → alignment → quantification → DESeq2/limma)
-- **Telomeric ATAC-seq**: repeat-aware alignment and motif quantification for telomeric chromatin accessibility
+- **Telomeric ATAC-seq**: Snakemake automated workflow for repeat-aware alignment and motif quantification for telomeric chromatin accessibility
+- **RNA-seq pipelines**: reproducible workflows (QC → alignment → quantification → DESeq2/limma)
 - **Multi-omic integration**: CUT&Tag + RNA-seq with BETA and ChIPpeakAnno
 
 ### Tools
