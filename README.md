@@ -11,7 +11,7 @@ M.S. Bioinformatics candidate at Northeastern (Dec 2027) · Computational Biolog
 Python · R · Bash · Snakemake · STAR · SAMtools/BEDTools · DESeq2 · HPC (Slurm) · ChIPpeakAnno
 
 ### Featured
-- [telomeric_atacseq](link): telomere-specific ATAC-seq analysis
-- [rnaseq-snakemake](link): automated RNA-seq pipeline
+- [telomeric_atacseq]([link](https://github.com/juliannemurthy/telomeric_atacseq)): telomere-specific ATAC-seq analysis
+- [daylab]([link](https://github.com/juliannemurthy/daylab)): Northeastern Day lab pipeline scripts
 
 Preprint Publication: [G4 DNA structures induced by UV radiation: A multi-omic approach (bioRxiv, 2026)](https://doi.org/10.64898/2026.07.15.738736)
